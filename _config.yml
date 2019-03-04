@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/picme.jpg
+picture: assets/images/james.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -58,7 +58,7 @@ authors:
         name: yaser khodadad
         bio: A man interested in graphics and software specialist
         external-image: false
-        picture: assets/images/picme.jpg
+        picture: assets/images/james.jpg
         twitter: johndoe
     jamesfoster:
         name: James Foster
