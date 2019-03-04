@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/picme.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://yaserkhodadad.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -51,14 +51,14 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: yaser.kh199@gmail.com
 
 authors:
     johndoe:
         name: yaser khodadad
         bio: A man interested in graphics and software specialist
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/picme.jpg
         twitter: johndoe
     jamesfoster:
         name: James Foster
