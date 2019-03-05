@@ -3,7 +3,7 @@ title: ":ramen: همایش نظام اداری و دولت الکترونیک"
 layout: post
 date: 1397-03-25 07:30
 tag: نمونه کار
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: https://koppl.in/indigo/assets/images/tabligh.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
