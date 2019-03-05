@@ -24,9 +24,9 @@ layout: page
 {{content}}
 
 {% if site.post-advance-links contains page.category %}
-    <div class="blog-navigation">
+    <div dir="rtl" class="blog-navigation">
         {% if page.previous.hidden == false and page.previous.url %}
-            <a dir="rtl" class="prev" href="{{ site.url }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+            <a  class="prev" href="{{ site.url }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
         {% else %}
             <a class="prev"></a>
         {% endif %}
