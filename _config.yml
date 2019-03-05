@@ -1,6 +1,6 @@
 # main text of home
-name: yaser khodadad
-bio: A man interested in graphics and software specialist
+name:  یاسر خداداد
+bio: من عاشق گرافیک هستم و متخصص نرم افزار
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -37,9 +37,9 @@ disqus:
 facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
@@ -55,8 +55,8 @@ email: yaser.kh199@gmail.com
 
 authors:
     johndoe:
-        name: yaser khodadad
-        bio: A man interested in graphics and software specialist
+        name: یاسر خداداد
+        bio: من عاشق گرافیک هستم و متخصص نرم افزار
         external-image: false
         picture: assets/images/picme.jpg
         twitter: johndoe
