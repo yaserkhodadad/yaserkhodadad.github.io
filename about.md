@@ -19,23 +19,24 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>Skills</h2>
+<h2 style="direction:rtl">مهارت ها  :</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>HTML - XML - CSS - Js </li>
+	<li>Responsive </li>
+	<li>PhotoShop</li>
+	<li> CorelDraw </li>
+	<li>C# - C++ - C - Vb</li>
+	<li>JavaScript</li>
+	<li>ASP.NET MVC</li>
+	<li>WPF</li>
+	<li>HardWare - SoftWare</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>UI - UX</li>
+	<li>SQL Server</li>
+	<li>ICDL1 - ICDL2 - ICDL Advanced</li>
+	<li> Network </li>
+	
 </ul>
 
 <h2 style="direction:rtl">همکاری ها با :</h2>
