@@ -38,10 +38,20 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2 style="direction:rtl">Projects</h2>
+<h2 style="direction:rtl">همکاری ها با :</h2>
 
 <ul style="direction:rtl">
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li> استانداری خراسان رضوی </li>
+	<li> اداره کل فنی و حرفه ای خراسان رضوی </li>
+	<li> مرکز پیشرفته شماره 6 ارم فنی و حرفه ای </li>
+	<li> ستاد انتظامی شهرستان باخرز</li>
+	<li> آموزشگاه بین المللی راشد </li>
+	<li> گروه آموزشی نت ایلرن </li>
+	<li> گروه خیریه آیین مهر </li>
+	<li> گروه خیریه صراط</li>
+	<li> شرکت صدرا پندار توس</li>
+	<li> شرکت مبتکران</li>
+	<li> شرکت مهندسی فن آوران دنا</li>
+	<li> چاپ و تبلیغات تندیس</li>
+	<li> انجام پروژه های فریلنسری</li>
 </ul>
