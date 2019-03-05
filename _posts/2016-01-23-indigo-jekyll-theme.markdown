@@ -1,8 +1,8 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":ramen: همایش نظام اداری و دولت الکترونیک"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
+date: 1397-03-25 07:30
+tag: نمونه کار
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
@@ -27,7 +27,7 @@ What has inside?
 - SVG
 - Travis
 - No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+
 
 ---
 
