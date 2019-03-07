@@ -16,9 +16,11 @@ externalLink: false
 ![Screenshot](https://yaserkhodadad.github.io/assets/port/p1.png)
 ![Screenshot](https://yaserkhodadad.github.io/assets/port/p2.png)
 
+<p style="direction:rtl">
 تست توسط شرکت های مختلف برای راست چین بودن متن ها تست توسط شرکت های مختلف برای راست چین بودن متن ها
 تست توسط شرکت های مختلف برای راست چین بودن متن هاثسالقاقتفت
----
+</p>
+
 
 
 
