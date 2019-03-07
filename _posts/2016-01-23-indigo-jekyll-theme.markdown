@@ -35,5 +35,3 @@ externalLink: false
 </p>
 
 
-
----
