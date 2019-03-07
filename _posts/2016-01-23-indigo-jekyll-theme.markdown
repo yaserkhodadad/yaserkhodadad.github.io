@@ -35,6 +35,6 @@ externalLink: false
 </p>
 
 ---
-
- <a style="direction: rtl">!!!جهت ثبت سفارش همین حالا اقدام کنید</a><br/>
-    <a>telegram: @Mr_Graphiste</a>    
+<a>tejtjtjej</a>
+ 
+ <a>telegram: @Mr_Graphiste</a>    
