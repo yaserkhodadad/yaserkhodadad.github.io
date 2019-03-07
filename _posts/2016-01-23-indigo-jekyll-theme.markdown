@@ -35,6 +35,4 @@ externalLink: false
 </p>
 
 ---
-<a>tejtjtjej</a>
- 
- <a>telegram: @Mr_Graphiste</a>    
+fhbietutb
