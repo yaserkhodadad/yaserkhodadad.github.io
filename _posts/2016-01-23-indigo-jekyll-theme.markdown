@@ -36,7 +36,4 @@ externalLink: false
 
 
 
-<p style="direction:rtl">
- جهت رزرو سفارشات همین حالا اقدام کنید!!!!
- 
-</p>
+---
