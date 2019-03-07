@@ -20,6 +20,9 @@ externalLink: false
 تست توسط شرکت های مختلف برای راست چین بودن متن هاثسالقاقتفت
 ---
 
+
+
+<p style="direction:rtl">
 What has inside?
 
 - Gulp
@@ -28,7 +31,7 @@ What has inside?
 - SVG
 - Travis
 - No JS
-
+</p>
 
 ---
 
