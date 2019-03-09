@@ -1,7 +1,7 @@
 ---
-title: ":ramen: همایش نظام اداری و دولت الکترونیک"
+title: ":ramen:جشنواره یلدای ایران تاتس "
 layout: post
-date: 1397-03-25 07:30
+date: 1396-10-25 07:30
 tag: نمونه کار
 image: https://yaserkhodadad.github.io/assets/images/tabligh.png
 headerImage: true
@@ -14,10 +14,10 @@ externalLink: false
 ---
 
 ![Screenshot](https://yaserkhodadad.github.io/assets/port/p1.png)
-![Screenshot](https://yaserkhodadad.github.io/assets/port/p2.png)
+
 
 <p style="direction:rtl">
- جشنواره ایران تاتس
+ جشنواره یلدای ایران تاتس
 </p>
 
 <p style="direction:rtl">
