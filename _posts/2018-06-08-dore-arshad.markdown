@@ -2,7 +2,7 @@
 title: ":ramen:دوره متخصص ارشد وب ASP.NET MVC  "
 layout: post
 date: 1396-10-25 16:10
-tag: نمونه کار
+tag: نمونه کار 
 image: https://yaserkhodadad.github.io/assets/images/tabligh.png
 headerImage: true
 projects: true
