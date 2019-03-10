@@ -25,8 +25,8 @@ externalLink: false
 
 - ایران تاتس<br/>
 - یلدا <br/>
--  ASP.NET MVC آموزش وب <br/>
--  PSD TO HTML طراحی قالب<br/>
+-   آموزش وب ASP.NET MVC<br/>
+-   طراحی قالب PSD TO HTML <br/>
 -  برنامه نویسی حرفه ایی<br/>
 -  ۱۵۰ ساعت مفید آموزش <br/>
 </p>
