@@ -1,0 +1,33 @@
+---
+title: ":ramen: هکر قانونی و تست نفوذ CEH "
+layout: post
+date: 1396-10-25 16:10
+tag: نمونه کار 
+image: https://yaserkhodadad.github.io/assets/images/tabligh.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+category: project
+author: johndoe
+externalLink: false
+---
+
+![Screenshot](https://yaserkhodadad.github.io/assets/port/p8.png)
+
+
+<p style="direction:rtl">
+دوره آموزشی هکر قانونی و تست نفوذ زیر نظر مهندس مهدی مصدق . آشنایی با کلیه حملات ودسترسی به نرم افزار ها، همراه با اعطای گواهینامه بین المللی و قابل ترجمه
+
+</p>
+
+<p style="direction:rtl">
+کلمات کلیدی :<br/>
+
+- هکر قانونی  <br/>
+- گروه آموزشی نت ایلرن <br/>
+- استراق سمع و حملات پسورد <br/>
+- هک سیستم و آشنایی بد افزارها <br/>
+- مهندس مهدی مصدق <br/>
+-   اعطای گواهینامه بین المللی و قابل ترجمه<br/>
+</p>
