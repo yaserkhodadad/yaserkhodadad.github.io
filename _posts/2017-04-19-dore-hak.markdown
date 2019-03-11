@@ -1,0 +1,33 @@
+---
+title: ":ramen:دوره هک قانونمند  "
+layout: post
+date: 1396-10-25 16:10
+tag: نمونه کار 
+image: https://yaserkhodadad.github.io/assets/images/tabligh.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+category: project
+author: johndoe
+externalLink: false
+---
+
+![Screenshot](https://yaserkhodadad.github.io/assets/port/p14.png)
+
+
+<p style="direction:rtl">
+
+دوره هک قانونمند  زیر نظر گزوه آموزشی نت ایلرن
+</p>
+
+<p style="direction:rtl">
+کلمات کلیدی :<br/>
+
+- آشنایی با بد افزار ها <br/>
+- گروه آموزشی نت ایلرن <br/>
+- آموزش صفر تا صد  <br/>
+-  آموزش های هک سیستم <br/>
+- مهندس مهدی مصدق <br/>
+-   اعطای گواهینامه بین المللی و قابل ترجمه<br/>
+</p>
