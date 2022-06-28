@@ -40,7 +40,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>UI - UX</li>
 	<li>SQL Server</li>
 	<li>ICDL1 - ICDL2 - ICDL Advanced</li>
-	<li> Network </li>
+	<li> Network Plus </li>
 	
 </ul>
 
